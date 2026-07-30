@@ -3,3 +3,5 @@ A simple Habit Tracker web application that helps users build good habits and re
 
 
 ## Tech Stack
+
+Frontend - HTML,CSS
