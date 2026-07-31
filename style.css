@@ -1,0 +1,19 @@
+
+.sidebar { 
+  min-height: calc(100vh - 56px); 
+  background: #ffffff; 
+  border-right: 1px solid #e9ecef; 
+}
+
+.sidebar .nav-link { 
+  color: #495057; 
+  font-weight: 500; 
+  padding: 12px 20px; 
+}
+
+.sidebar .nav-link.active { 
+  background: #eef2ff; 
+  color: #4361ee; 
+  border-radius: 6px; 
+}
+
